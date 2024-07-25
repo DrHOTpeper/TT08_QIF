@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
   title:        "QIF model with Stochastic Computing"      # Project title
-  author:       ""      # Your name
+  author:       " "      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Models QIF with stochastic computing"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -32,7 +32,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "out1"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
