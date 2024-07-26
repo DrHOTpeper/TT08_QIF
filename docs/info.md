@@ -13,7 +13,8 @@ Simulate QIF model with stochastic computing.
 
 ## How to test
 
-
+Run with input
 
 ## External hardware
 
+none
