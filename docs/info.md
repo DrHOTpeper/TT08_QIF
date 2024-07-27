@@ -13,8 +13,8 @@ Simulate QIF model with stochastic computing.
 
 ## How to test
 
-Run with input
+Run 
 
 ## External hardware
 
-none
+ADALM2000
